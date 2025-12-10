@@ -1,3 +1,9 @@
+---
+description: Create steering documents
+---
+
+Follow the instructions below to create steering documents for the current project.
+
 # Create Steering Documents - Standalone
 
 Create comprehensive steering documents for a development project based on the project type and requirements.
